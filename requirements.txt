@@ -1,0 +1,27 @@
+# Computer Vision & Deep Learning
+opencv-python
+cvzone
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+ultralytics
+
+# Scientific Computing
+numpy<2
+scipy
+matplotlib
+scikit-image
+Pillow
+
+# Tracking & Processing
+filterpy
+Lap
+tqdm
+
+# Configuration
+PyYAML
+hydra-core
+
+# Utilities
+requests
